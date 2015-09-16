@@ -1,5 +1,6 @@
 //changed user1 and 2
 test1.txt
+
 //changed by user1
 some text
 news
