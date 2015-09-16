@@ -2,3 +2,4 @@
 test1.txt
 //changed by user1
 some text
+news
